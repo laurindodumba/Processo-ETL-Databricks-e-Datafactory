@@ -1,0 +1,17 @@
+{
+	"name": "dset",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_lab02",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dolar_bricks",
+			"table": "laurindo_final"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

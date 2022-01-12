@@ -1,0 +1,9 @@
+{
+	"name": "labadf022",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5bff01f9-bce2-4f59-8297-816cb6ebc820",
+		"tenantId": "f2554c8d-f8a7-4d38-b534-98737c39f026"
+	}
+}
